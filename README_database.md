@@ -22,7 +22,7 @@ Host: switchback.proxy.rlwy.net
 Port: 42899
 User: root
 Database: railway
-Password: (check Railway dashboard)
+Password: QAnMchtvTtmpJKUPUPfHlREcmesagHez
 ```
 
 ## Next Steps
